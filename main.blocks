@@ -4,10 +4,10 @@
         # # # # # 
         . # # # . 
         . . # . .
-        `</field><next><block type="device_pause" id="NYB9?i(oR^|/2^ON*MR1"><value name="pause"><shadow type="timePicker" id=",GR1P#)q`slQt?6(fseF"><field name="ms">5000</field></shadow></value><next><block type="device_pause" id="DcuHDwrY06{(!/@cJ%yr"><value name="pause"><shadow type="timePicker" id="=plUB];C%leu}CChe%lP"><field name="ms">5000</field></shadow></value><next><block type="device_show_leds" id="C-Wkka*Ms#?6Vl6w?1fy"><field name="LEDS">`
+        `</field><next><block type="device_pause" id="NYB9?i(oR^|/2^ON*MR1"><value name="pause"><shadow type="timePicker" id=",GR1P#)q`slQt?6(fseF"><field name="ms">10000</field></shadow></value><next><block type="device_show_leds" id="C-Wkka*Ms#?6Vl6w?1fy"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . .
-        `</field></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="E$ijJ;g!)}K+,1WeCPb1"><value name="pause"><shadow type="timePicker" id="t8B[EqhYUqfu(ubenTjU"><field name="ms">10000</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
